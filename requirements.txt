@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-fasthtml
+google-generativeai
+python-dotenv
+requests
+pydantic
+typing-extensions
+python-multipart
